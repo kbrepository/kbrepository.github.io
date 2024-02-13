@@ -4,6 +4,7 @@ I'm a passionate Cloud Engineer based in Pune, Maharashtra. With a robust backgr
 
 ## 🔧 Skills
 - Cloud: AWS
+- OS: Linux(RHEL, Ubuntu ., etc.), Windows
 - Databases: AWS RDS (MySQL, DynamoDB)
 - Programming Languages: Python
 - Other: Shell Scripting, AWS CloudFormation, Terraform
