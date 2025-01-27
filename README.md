@@ -11,7 +11,7 @@ I'm a passionate Cloud Engineer based in Pune, Maharashtra. With a robust backgr
 
 
 ## 🌱 I'm Currently exploring
-- Terraform, Kubeneretes
+- CloudFormation, Terraform, Kubeneretes
 
 ## 📫 Connect with Me
 - [LinkedIn]((https://www.linkedin.com/in/kb2005/)
